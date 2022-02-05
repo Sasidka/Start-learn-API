@@ -1,0 +1,30 @@
+﻿<Page x:Class="Moments.Views.TodosPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Moments.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" 
+      Loaded="Page_Loaded"
+      d:DesignWidth="800"
+      Title="TodosPage">
+
+    <Grid>
+        <ListView x:Name="ListTodos">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel x:Name="LabelPanel">
+                    <Label Content="{Binding AlbumId}"/>
+                    <Label Content="{Binding id}"/>
+                    <Label Content="{Binding title}"/>
+                        <Label Content="{Binding url}"/>
+                        <Image Source="{Binding thumbnailUrl}"
+                                   Height="150"
+                                   Width="150"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>

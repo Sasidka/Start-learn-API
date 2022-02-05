@@ -1,0 +1,17 @@
+C:\Users\ferww\source\repos\Moments\Moments\bin\Debug\Moments.exe.config
+C:\Users\ferww\source\repos\Moments\Moments\bin\Debug\Moments.exe
+C:\Users\ferww\source\repos\Moments\Moments\bin\Debug\Moments.pdb
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Moments.csproj.AssemblyReference.cache
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\MainWindow.g.cs
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Views\TodosPage.g.cs
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\App.g.cs
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Moments_MarkupCompile.cache
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Moments_MarkupCompile.lref
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\MainWindow.baml
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Views\TodosPage.baml
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Moments.g.resources
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Moments.Properties.Resources.resources
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Moments.csproj.GenerateResource.cache
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Moments.csproj.CoreCompileInputs.cache
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Moments.exe
+C:\Users\ferww\source\repos\Moments\Moments\obj\Debug\Moments.pdb
